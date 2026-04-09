@@ -367,7 +367,7 @@ void Delete(AlxWindow* w){
 }
 
 int main(){
-    if(Create("Polymorphism2",1800,1000,1,1,Setup,Update,Delete))
+    if(Create("Polymorphism Using Pointer and Header",1800,1000,1,1,Setup,Update,Delete))
         Start();
     return 0;
 }
